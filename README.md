@@ -23,7 +23,7 @@ In this phase, several modifications were made to the MongoDB database using Jup
 - Converted ‘latitude’ and ‘longitude’ fields to decimals, and ‘RatingValue’ to an integer to ensure precise analysis outcomes.
 
 ### Part 3: Exploratory Analysis
-Conducted exploratory queries and transformed results into Pandas DataFrames using `NoSQL_analysis.ipynb`:
+Using the `NoSQL_analysis.ipynb` notebook, I conducted exploratory queries and transformed the results into Pandas DataFrames. The analysis included:
 - Identified establishments with a hygiene score of 20.
 - Found establishments in London with a `RatingValue` greater than equal to 4.
 - Listed top 5 establishments with a `RatingValue` of 5, sorted by lowest hygiene score and proximity to 'Penang Flavours.'
