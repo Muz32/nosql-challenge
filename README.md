@@ -3,9 +3,8 @@
 This project leveraged the NoSQL database management system, MongoDB, to analyze data from the UK Food Standards Agency. The analysis focused on different types of ratings (including hygine) of various establishments across the United Kingdom. The insights derived from this analysis aimed to assist journalists and food critics in identifying areas of interest for future articles. 
 
 ## Tools Used
-- **MongoDB**: Utilized for data storage and querying.
-- **Jupyter Notebook**: Employed for performing data analysis and visualizations.
-
+- **MongoDB**: For storing and querying the data.
+- **Jupyter Notebook**: For conducting data analysis and creating pandas dataframes.
 ## Analysis Approach
 This assignment challenge was completed in three parts: 
 
