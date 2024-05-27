@@ -14,7 +14,7 @@ This assignment challenge was completed in three parts:
 - **Data Import**: The 'establishments.json' file was imported into MongoDB using terminal commands.
 - **Database Configuration**: A MongoDB database named 'uk_food' was created, and a collection named 'establishments' was prepared for data analysis.
 - **Libraries Used**: Imported **PyMongo** and **Pretty Print** libraries in Jupyter Notebook for MongoDB interaction and data readability.
-- 
+  
 ### Part 2: Update the Database
 In this phase, several modifications were made to the MongoDB database using Jupyter notebook file `NoSQL_setup.ipynb`:
 - Added a new restaurant, 'Penang Flavours,' to the database.
