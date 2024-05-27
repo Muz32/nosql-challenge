@@ -5,7 +5,7 @@ I utilized MongoDB, a NoSQL database management system, to analyze data from the
 ## Tools Used
 - **MongoDB**: For storing and querying the data.
 - **Jupyter Notebook**: For conducting data analysis and creating pandas dataframes.
-- 
+  
 ## Analysis Approach
 This assignment challenge was completed in three parts: 
 
