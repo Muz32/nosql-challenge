@@ -7,7 +7,7 @@ This project leveraged the NoSQL database management system, MongoDB, to analyze
 - **Jupyter Notebook**: Employed for performing data analysis and visualizations.
 
 ## Analysis Approach
-The challenge was tackled in three distinct parts:
+This assignment challenge was completed in three parts: 
 
 ### Part 1: Database and Jupyter Notebook Setup
 - **File Used**: `NoSQL_setup.ipynb`
